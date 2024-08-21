@@ -28,7 +28,7 @@ def texto_a_mostrar():
             resultado.set("Su Numero Es Negativo")
 
     except ValueError:
-        resultado.set("El valor no es un número entero válido")
+        resultado.set("El valor no es un número válido")
 
 
 texto_varibale = tk.StringVar()
