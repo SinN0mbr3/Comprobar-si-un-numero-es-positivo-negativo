@@ -1,7 +1,7 @@
 import tkinter as tk
 
 ventana = tk.Tk()
-ventana.geometry("500x500+550+150")
+ventana.geometry("350x250+550+150")
 ventana.config(bg="thistle1")
 ventana.title("Prueba positivo/negativo")
 ventana.iconbitmap("zero_two.ico")
